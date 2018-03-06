@@ -1,0 +1,25 @@
+body {
+    background-image: url("image/latar.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.title {
+    text-align: center;
+    font-family: 'Press Start 2P';
+}
+.content {
+    text-align: center;
+    padding: 30px;
+    font-family: 'Press Start 2P';
+}
+.img-circle{
+    width: 150px;
+    height: 150px;
+}
+a:hover {
+    color: black;
+}
+.footer {
+    text-align: center;
+    font-family: 'Press Start 2P';
+}
